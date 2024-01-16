@@ -1,0 +1,465 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.2)  14 JAN 2024 16:19
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./ups_doc.tex
+(ups_doc.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2022-12-17>
+(C:\Program Files\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+
+(C:\Program Files\MiKTeX\tex/cslatex/base\il2enc.def
+File: il2enc.def 1997/08/20 CSLaTeX
+Now handling font encoding IL2 ...
+... no UTF-8 mapping file for font encoding IL2
+)
+LaTeX Font Info:    Trying to load font information for IL2+cmr on input line 1
+12.
+
+(C:\Program Files\MiKTeX\tex/cslatex/base\il2cmr.fd
+File: il2cmr.fd 1997/02/06 CSLaTeX font definitions
+))
+(C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/12/26 3.84 The Babel package
+\babel@savecnt=\count194
+\U@D=\dimen141
+\l@unhyphenated=\language79
+
+(C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count195
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Program Files\MiKTeX\tex/latex/babel-czech\czech.ldf
+Language: czech 2008/07/06 v3.1a Czech support from the babel system
+Package babel Info: Making " an active character on input line 172.
+\cs@wordlen=\count196
+Package babel Info: Making - an active character on input line 226.
+))
+(C:\Program Files\MiKTeX\tex/generic/babel/locale/cs\babel-czech.tex
+Package babel Info: Importing font and identification data for czech
+(babel)             from babel-cs.ini. Reported on input line 11.
+)
+(C:\Program Files\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+\caption@tempdima=\dimen142
+\captionmargin=\dimen143
+\caption@leftmargin=\dimen144
+\caption@rightmargin=\dimen145
+\caption@width=\dimen146
+\caption@indent=\dimen147
+\caption@parindent=\dimen148
+\caption@hangindent=\dimen149
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count197
+\c@continuedfloat=\count198
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+(C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen152
+))
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen153
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count199
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count266
+\leftroot@=\count267
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count268
+\DOTSCASE@=\count269
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen154
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count270
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count271
+\dotsspace@=\muskip16
+\c@parentequation=\count272
+\dspbrk@lvl=\count273
+\tag@help=\toks20
+\row@=\count274
+\column@=\count275
+\maxfields@=\count276
+\andhelp@=\toks21
+\eqnshift@=\dimen155
+\alignsep@=\dimen156
+\tagshift@=\dimen157
+\tagwidth@=\dimen158
+\totwidth@=\dimen159
+\lineht@=\dimen160
+\@envbody=\toks22
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Program Files\MiKTeX\tex/latex/parskip\parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Program Files\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count277
+))
+(C:\Program Files\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count278
+\Gm@cntv=\count279
+\c@Gm@tempcnt=\count280
+\Gm@bindingoffset=\dimen161
+\Gm@wd@mp=\dimen162
+\Gm@odd@mp=\dimen163
+\Gm@even@mp=\dimen164
+\Gm@layoutwidth=\dimen165
+\Gm@layoutheight=\dimen166
+\Gm@layouthoffset=\dimen167
+\Gm@layoutvoffset=\dimen168
+\Gm@dimlist=\toks24
+
+(C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count281
+\l__pdf_internal_box=\box53
+) (ups_doc.aux
+
+LaTeX Warning: Label `tab:server-msg' multiply defined.
+
+)
+\openout1 = `ups_doc.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count282
+\scratchdimen=\dimen169
+\scratchbox=\box54
+\nofMPsegments=\count283
+\nofMParguments=\count284
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count285
+\MPscratchDim=\dimen170
+\MPnumerator=\count286
+\makeMPintoPDFobject=\count287
+\everyMPtoPDFconversion=\toks26
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 443.57848pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 624.25346pt, 85.35826pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=443.57848pt
+* \textheight=624.25346pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+
+pdfTeX warning: pdflatex.exe (file ./img//fav.pdf): PDF inclusion: found PDF ve
+rsion <1.6>, but at most version <1.5> allowed
+<img//fav.pdf, id=1, 597.50829pt x 293.06387pt>
+File: img//fav.pdf Graphic file (type pdf)
+<use img//fav.pdf>
+Package pdftex.def Info: img//fav.pdf  used on input line 38.
+(pdftex.def)             Requested size: 310.50357pt x 152.2957pt.
+[1
+
+{C:/Users/machm/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img//fav.p
+df>] (ups_doc.toc [1
+
+])
+\tf@toc=\write3
+\openout3 = `ups_doc.toc'.
+
+ [2]
+Kapitola 1.
+[3
+
+]
+Kapitola 2.
+
+
+pdfTeX warning: pdflatex.exe (file ./img/ups_diagram.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<img/ups_diagram.pdf, id=23, 521.0667pt x 257.04028pt>
+File: img/ups_diagram.pdf Graphic file (type pdf)
+<use img/ups_diagram.pdf>
+Package pdftex.def Info: img/ups_diagram.pdf  used on input line 75.
+(pdftex.def)             Requested size: 399.21791pt x 196.93326pt.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 8
+4.
+(C:\Program Files\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 84.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 8
+4.
+
+(C:\Program Files\MiKTeX\tex/latex/base\omlcmr.fd
+File: omlcmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/bx/n' in size <12> not available
+(Font)              Font shape `OML/cmm/b/it' tried instead on input line 84.
+ [4
+
+ <./img/ups_diagram.pdf>]
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 89.
+
+Overfull \hbox (20.12903pt too wide) in paragraph at lines 114--115
+[]\IL2/cmr/bx/n/12 Odpovìï\IL2/cmr/m/n/12 : \IL2/cmr/bx/n/12 STAR-TING\OMS/cmsy
+/b/n/12 j\OML/cmm/b/it/12 <\IL2/cmr/bx/n/12 poèáteèní ¾i-voty\OML/cmm/b/it/12 >
+\OMS/cmsy/b/n/12 j\OML/cmm/b/it/12 <\IL2/cmr/bx/n/12 délka slova\OML/cmm/b/it/1
+2 >\OMS/cmsy/b/n/12 j\OML/cmm/b/it/12 <\IL2/cmr/bx/n/12 hráè na tahu\OML/cmm/b/
+it/12 > 
+ []
+
+[5]
+Overfull \hbox (5.46268pt too wide) in paragraph at lines 133--134
+[]\IL2/cmr/bx/n/12 Odpovìï \IL2/cmr/m/n/12 pøi správ-ném uhod-nutí: \IL2/cmr/bx
+/n/12 CORRECTQUESS\OMS/cmsy/b/n/12 j\OML/cmm/b/it/12 <\IL2/cmr/bx/n/12 písmeno\
+OML/cmm/b/it/12 >\IL2/cmr/bx/n/12 ;\OML/cmm/b/it/12 <\IL2/cmr/bx/n/12 index\OML
+/cmm/b/it/12 > 
+ []
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 161.
+[6]
+Overfull \hbox (50.39789pt too wide) in paragraph at lines 167--168
+[]\IL2/cmr/m/n/12 Formát: \IL2/cmr/bx/n/12 GA-ME-U-P-DATE\OMS/cmsy/b/n/12 j\OML
+/cmm/b/it/12 <\IL2/cmr/bx/n/12 jméno\OML/cmm/b/it/12 >\IL2/cmr/bx/n/12 ;\OML/cm
+m/b/it/12 <\IL2/cmr/bx/n/12 poèet ¾i-votù\OML/cmm/b/it/12 >\IL2/cmr/bx/n/12 ;\O
+ML/cmm/b/it/12 <\IL2/cmr/bx/n/12 stav pøi-po-jení\OML/cmm/b/it/12 >\OMS/cmsy/b/
+n/12 j\IL2/cmr/bx/n/12 ...!\OML/cmm/b/it/12 <\IL2/cmr/bx/n/12 høáè
+ []
+
+
+Overfull \hbox (60.66058pt too wide) in paragraph at lines 179--180
+[]\IL2/cmr/m/n/12 pøíklad: QUES-SED\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 <\IL2/cmr
+/m/n/12 délka slova\OML/cmm/m/it/12 >\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 <\IL2/c
+mr/m/n/12 písmeno\OML/cmm/m/it/12 >\IL2/cmr/m/n/12 ;\OML/cmm/m/it/12 <\IL2/cmr/
+m/n/12 index\OML/cmm/m/it/12 >\IL2/cmr/m/n/12 ;\OML/cmm/m/it/12 <\IL2/cmr/m/n/1
+2 index\OML/cmm/m/it/12 >\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 <\IL2/cmr/m/n/12 pí
+smeno\OML/cmm/m/it/12 >\IL2/cmr/m/n/12 ;\OML/cmm/m/it/12 <\IL2/cmr/m/n/12 index
+\OML/cmm/m/it/12 > 
+ []
+
+[7]
+Overfull \hbox (14.00337pt too wide) in paragraph at lines 197--218
+ [][] 
+ []
+
+
+Overfull \hbox (79.3248pt too wide) in paragraph at lines 224--241
+ [][] 
+ []
+
+[8] [9]
+Kapitola 3.
+[10
+
+] [11]
+Kapitola 4.
+[12
+
+]
+Kapitola 5.
+[13
+
+]
+Kapitola 6.
+[14
+
+] (ups_doc.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6327 strings out of 476406
+ 104528 string characters out of 2799383
+ 1859787 words of memory out of 3000000
+ 26608 multiletter control sequences out of 15000+600000
+ 521791 words of font info for 56 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,8n,63p,521b,308s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\machm\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1200.pk> <C:\Users\machm\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dp
+i720\csbx12.pk> <C:\Users\machm\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csf
+onts/dpi864\csbx12.pk> <C:\Users\machm\AppData\Local\MiKTeX\fonts/pk/ljfour/pub
+lic/csfonts/dpi600\csr12.pk> <C:\Users\machm\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/public/csfonts/dpi600\csbx12.pk> <C:\Users\machm\AppData\Local\MiKTeX\fonts/
+pk/ljfour/public/csfonts/dpi600\csr17.pk> <C:\Users\machm\AppData\Local\MiKTeX\
+fonts/pk/ljfour/public/csfonts/dpi720\csr17.pk> <C:\Users\machm\AppData\Local\M
+iKTeX\fonts/pk/ljfour/public/csfonts/dpi1244\csbx12.pk><C:/Program Files/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/Program Files/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmib10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb>
+Output written on ups_doc.pdf (15 pages, 221308 bytes).
+PDF statistics:
+ 436 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+

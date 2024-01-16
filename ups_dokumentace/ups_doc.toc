@@ -1,0 +1,38 @@
+\babel@toc {czech}{}\relax 
+\contentsline {chapter}{\numberline {1}Princip hry}{3}{}%
+\contentsline {section}{\numberline {1.1}Obecná pravidla hry}{3}{}%
+\contentsline {section}{\numberline {1.2}Implementace pravidel hry}{3}{}%
+\contentsline {chapter}{\numberline {2}Komunikační protokol}{4}{}%
+\contentsline {section}{\numberline {2.1}Popis komunikačního protokolu}{4}{}%
+\contentsline {section}{\numberline {2.2}Klientovy zprávy}{4}{}%
+\contentsline {subsection}{\numberline {2.2.1}LOGIN}{4}{}%
+\contentsline {subsection}{\numberline {2.2.2}JOIN}{5}{}%
+\contentsline {subsection}{\numberline {2.2.3}START}{5}{}%
+\contentsline {subsection}{\numberline {2.2.4}QUESS}{6}{}%
+\contentsline {section}{\numberline {2.3}Zprávy od serveru}{6}{}%
+\contentsline {subsection}{\numberline {2.3.1}PING}{6}{}%
+\contentsline {subsection}{\numberline {2.3.2}LOBBYUPDATE}{6}{}%
+\contentsline {subsection}{\numberline {2.3.3}GAMEUPDATE}{7}{}%
+\contentsline {subsection}{\numberline {2.3.4}QUESSED}{7}{}%
+\contentsline {subsection}{\numberline {2.3.5}WINNER}{7}{}%
+\contentsline {section}{\numberline {2.4}Shrnutí zpráv}{8}{}%
+\contentsline {chapter}{\numberline {3}Implementace serveru}{10}{}%
+\contentsline {section}{\numberline {3.1}Úvod}{10}{}%
+\contentsline {section}{\numberline {3.2}Třída server}{10}{}%
+\contentsline {section}{\numberline {3.3}Třída ClientManager}{10}{}%
+\contentsline {section}{\numberline {3.4}Třída GameManager}{10}{}%
+\contentsline {section}{\numberline {3.5}Třída MessageHandlerer}{11}{}%
+\contentsline {section}{\numberline {3.6}Třída Game}{11}{}%
+\contentsline {section}{\numberline {3.7}Třida Client}{11}{}%
+\contentsline {section}{\numberline {3.8}Třída Responder}{11}{}%
+\contentsline {section}{\numberline {3.9}main.cpp}{11}{}%
+\contentsline {chapter}{\numberline {4}Implementace klienta}{12}{}%
+\contentsline {section}{\numberline {4.1}Úvod}{12}{}%
+\contentsline {section}{\numberline {4.2}Třída MyApp}{12}{}%
+\contentsline {section}{\numberline {4.3}Třída CommunicationHandlerer}{12}{}%
+\contentsline {section}{\numberline {4.4}Třída Game}{12}{}%
+\contentsline {chapter}{\numberline {5}Uživatelská příručka }{13}{}%
+\contentsline {section}{\numberline {5.1}Přeložení serveru}{13}{}%
+\contentsline {section}{\numberline {5.2}Spuštění serveru}{13}{}%
+\contentsline {section}{\numberline {5.3}Spuštění klienta}{13}{}%
+\contentsline {chapter}{\numberline {6}Závěr}{14}{}%

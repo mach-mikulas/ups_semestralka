@@ -1,0 +1,3 @@
+/mnt/c/Users/machm/CLionProjects/UPS/hangman_server/cmake-build-debug/CMakeFiles/hangman_server.dir
+/mnt/c/Users/machm/CLionProjects/UPS/hangman_server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/machm/CLionProjects/UPS/hangman_server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
